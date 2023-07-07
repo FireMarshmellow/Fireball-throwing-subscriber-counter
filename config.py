@@ -34,13 +34,13 @@ read all comments!!
 '''
 
 #I'll give you 10 guesses for what you have to put in here                                  
-WIFI_SSID = "Mellow-home-Fibre"
-WIFI_PASSWORD = "cxs96whbaf"
+WIFI_SSID = ""
+WIFI_PASSWORD = ""
 #to confirm Wi-Fi information please run wifi_test.py
 
 #this is using my YouTube API key feel free to change it if you want to
-API_KEY = "AIzaSyCYOjpH0jJsXTK85G986QRdVEuvf6AIBMQ"
-CHANNEL_ID = "UCswAdKEco21t8YbIIKNIYbQ"
+API_KEY = ""
+CHANNEL_ID = ""
 
 #this is the update subscriber count interval
 TIMER_INTERVAL = 600000  # 10 Minute units = milliseconds
